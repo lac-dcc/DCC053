@@ -2,7 +2,7 @@
 
 ### Overview
 
-The goal of this assignment is to compile logical and arithmetic expressions to a subset of RISC-V instructions.
+The goal of this assignment is to compile logical and arithmetic expressions to a subset of [RISC-V](https://en.wikipedia.org/wiki/RISC-V) instructions.
 
 For now, we will consider a machine with only the following nine instructions:
 
