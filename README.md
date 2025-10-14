@@ -102,15 +102,13 @@ You’re encouraged to use a [Test-Driven Development (Wikipedia)](https://en.wi
 * Tests are already provided — use them to guide your implementation.
 * Incrementally satisfy each test to build a robust compiler step by step.
 
-**Figure 2:** Example test-driven development workflow.
-
 ---
 
-## And Don’t Feel Overwhelmed…
+## And Don’t Feel Overwhelmed...
 
 Building a compiler may seem daunting, but remember:
 
-* You’re **not alone** — you’ll have the tools, lectures, and support you need.
+* You’re **not alone** — you’ll have the tools, [lectures](https://homepages.dcc.ufmg.br/~fernando/classes/dcc053/), and support you need.
 * Each of the 15 deliverables is **small and focused** on a specific task.
 * Most of the necessary code and concepts are **covered in class**.
 
@@ -127,8 +125,3 @@ The deliverables form a **partially ordered set**, so you can progress even if e
 > **Tip:** Take one step at a time. Each small success builds toward a working compiler.
 
 The skills gained — persistence, debugging, design, and reasoning — will be **invaluable** academically and professionally.
-Embrace the challenge, stay determined, and celebrate your progress!
-
----
-
-Would you like me to include Markdown image placeholders (e.g., `![Figure 1](fig1.png)`) for the figures, or leave them as text descriptions like above?
